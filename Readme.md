@@ -1,3 +1,10 @@
+> [!CAUTION]
+> Wir möchten Sie frühzeitig darüber informieren, dass unsere SOAP API zum **30.10.2025** dauerhaft abgeschaltet wird.
+> 
+> Bitte beachten Sie: Integrationen, die direkt von CleverReach bereitgestellt werden (z. B. für Shopware, Shopify, WooCommerce oder WordPress), sind von dieser Änderung nicht betroffen.
+
+Source: https://support.cleverreach.com/hc/de/articles/26983824923666-Abschaltung-der-SOAP-API-zum-30-10-2025-Jetzt-auf-die-REST-API-umsteigen
+
 # CleverReach Connect
 
 CleverReach Connect extension offers synchronization of your Magento newsletter subscribers and customers (imported from your orders if you like) with the CleverReach subscription groups.
